@@ -11,41 +11,21 @@
 <div class="col-12 mt-lg-0 mt-5 team_grid1" style="text-align: center;">
         <h3 class="heading text-uppercase">Our Services</h3>
 </div>
-<section class="services" style="margin-bottom: 50px; margin-top: 20px; margin-right: 30px; margin-left: 30px; ">
-  <div class="service-overlay py-5">
-  <div class="container-fluid py-lg-5 py-3">
-    <div class="row service_grids">
-      <div class="col-lg-3 col-md-3 mb-lg-0 mb-5 ser_grid1 icon1">
-        <span class="fab fa-forumbee"></span>
-        <h3>Service One </h3>
-        <p>Phasellus congue erat sem, ut tempor mauris tincidunt non. Nulla in erat
-        nec orci semper ultrices et sed libero. empor mauris tincidunt</p>
-        <a href="#">Read More <span class="fa fa-angle-right"></span></a>
-      </div>
-      <div class="col-lg-3 col-md-3 mb-lg-0 mb-5 ser_grid1 icon2">
-        <span class="fab fa-foursquare"></span>
-        <h3>Service Two</h3>
-        <p>Phasellus congue erat sem, ut tempor mauris tincidunt non. Nulla in erat
-        nec orci semper ultrices et sed libero. empor mauris tincidunt</p>
-        <a href="#">Read More <span class="fa fa-angle-right"></span></a>
-      </div>
-      <div class="col-lg-3 col-md-3 mb-lg-0 mb-5 ser_grid1 icon3">
-        <span class="fab fa-first-order"></span>
-        <h3>Service Three</h3>
-        <p>Phasellus congue erat sem, ut tempor mauris tincidunt non. Nulla in erat
-        nec orci semper ultrices et sed libero. empor mauris tincidunt</p>
-        <a href="#">Read More <span class="fa fa-angle-right"></span></a>
-      </div>
-      <div class="col-lg-3 col-md-3 ser_grid1 icon4">
-        <span class="fab fa-freebsd"></span>
-        <h3>Service Four</h3>
-        <p>Phasellus congue erat sem, ut tempor mauris tincidunt non. Nulla in erat
-        nec orci semper ultrices et sed libero. empor mauris tincidunt</p>
-        <a href="#">Read More <span class="fa fa-angle-right"></span></a>
-      </div>
-      
+<section class="team py-5 my-lg-5 my-3">
+  <div class="container-fluid ">
+
+  <div class="row team_grids" style="margin-left: 150px; margin-right: 200px; border-style: solid;">
+
+    <div class="col-lg-10 col-12 mb-lg-0 mb-4 team_grid1" style="margin-bottom: 100px; margin-top: 30px; margin-right: 0px">
+      <h3 class="heading text-uppercase">System Integration</h3>
+      <p>Sistem ICT sudah menjadi kebutuhan primer dalam sebuah korporasi. Sistem ICT yang handal akan sangat membantu korporasi dalam menjalankan proses  bisnisnya dan mempercepat perkembangan. Namun pengembangan sistem ICT yang handal sangat memakan resource dan sering tidak sesuai dengan core business dari suatu korporasi.</p>
+      <p>Kami Anugerah memberikan solusi total atas permasalahan ini. kami memiliki kemampuan untuk memberikan solusi ICT dan mengintegrasikan solusi tersebut. salah satu pengalaman kami adalah mengintegrasikan device management system pada perusahaan ISP. Solusi yang kami berikan membantu perusahaan tersebut untuk fokus memberikan layanan terbaik pada pelanggan dan ekspansi menjadi perusahaan ISP nomor satu di indonesia.</p>
+      <p>Kami memiliki berbagai strategic partnership yang dapat memastikan korporasi anda memiliki sistem ICT yang dibutuhkan, dan membantu anda fokus pada core business dan pengembangan korporasi anda.</p>
+      <br>
     </div>
+      
   </div>
+
   </div>
 </section>
 <!-- //services -->
